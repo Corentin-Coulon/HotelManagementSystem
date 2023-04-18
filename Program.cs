@@ -76,6 +76,6 @@ namespace HotelManagementSystem
                 Console.ReadKey();
             }
         }
-        //modification 1
+        //modif master
     }
 }
